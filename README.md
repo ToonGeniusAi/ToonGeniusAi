@@ -1,5 +1,12 @@
 # ToonGeniusAi Example Hub
 
+<div align="center">
+  
+  [![Twitter Follow](https://img.shields.io/twitter/follow/Toon_Genius?style=social)](https://x.com/Toon_Genius)
+  [![Website](https://img.shields.io/badge/Website-ToonGenius-blue)](https://toongenius.xyz/)
+
+</div>
+
 A hub of frontend, agent kits, and smart contract examples for BNB Chain developers. Build and innovate with
 ready-to-use resources.
 
@@ -96,3 +103,11 @@ To maintain code consistency, install these VS Code extensions before you begin:
 
 Have ideas to improve this hub or run into any issues? We'd love to hear from you! Please share your thoughts via [GitHub
 Issues](https://github.com/your-repo/issues). Your feedback helps us enhance this resource for all developers.
+
+---
+
+<div align="center">
+  
+  [🌐 Website](https://toongenius.xyz/) | [🐦 Twitter](https://x.com/Toon_Genius)
+  
+</div>
