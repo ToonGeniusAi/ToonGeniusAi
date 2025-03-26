@@ -2,8 +2,8 @@
 
 <div align="center">
   
-  <a href="https://x.com/Toon_Genius"><img src="https://img.shields.io/twitter/follow/Toon_Genius?style=for-the-badge&logo=twitter&labelColor=1DA1F2&logoColor=white&color=1DA1F2" alt="Twitter Follow" /></a>
-  <a href="https://toongenius.xyz/"><img src="https://img.shields.io/badge/Website-ToonGenius-blue?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Website" /></a>
+  <a href="https://toongenius.xyz/"><img src="https://img.shields.io/badge/Website-ToonGenius-blue?style=for-the-badge&logo=globe&logoColor=white" alt="Website" /></a>
+  <a href="https://x.com/Toon_Genius"><img src="https://img.shields.io/badge/Twitter-@Toon__Genius-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
 
 </div>
 
@@ -108,7 +108,7 @@ Issues](https://github.com/your-repo/issues). Your feedback helps us enhance thi
 
 <div align="center">
   
-  <a href="https://toongenius.xyz/"><img src="https://img.shields.io/badge/🌐_Website-ToonGenius-blue?style=for-the-badge" alt="Website" /></a>
-  <a href="https://x.com/Toon_Genius"><img src="https://img.shields.io/badge/🐦_Twitter-@Toon__Genius-1DA1F2?style=for-the-badge" alt="Twitter" /></a>
+  <a href="https://toongenius.xyz/"><img src="https://img.shields.io/badge/Website-ToonGenius-blue?style=for-the-badge&logo=globe&logoColor=white" alt="Website" /></a>
+  <a href="https://x.com/Toon_Genius"><img src="https://img.shields.io/badge/Twitter-@Toon__Genius-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
   
 </div>
